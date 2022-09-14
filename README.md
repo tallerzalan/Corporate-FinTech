@@ -1,3 +1,2 @@
-# CorporateFinTech
-CorporateFinTech Course at the University of Southern Denmark
-by Assistant Professor of Finance David Florysiak
+# Corporate-FinTech
+by David Florysiak at the University of Southern Denmark
